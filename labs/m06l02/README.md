@@ -1,20 +1,22 @@
-# Ports, Sockets And What Listening Means
+# m06l02 · Ports, Sockets And What Listening Means
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Transport, Ports And Sockets  
-**Lesson**: `m06l02`
+Module 6: Transport, Ports And Sockets · lesson 6.2 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m06l02)
 
-## Links
+**Goal:** Distinguish a port, socket, and listening endpoint when inspecting a service
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m06l02)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-6-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m06l02-02](m06l02-02/) | Describe a listening endpoint | Graded |
+| [m06l02-03](m06l02-03/) | Bind address changes reachability | Graded |
 
-- [`m06l02-02/`](m06l02-02/)
-- [`m06l02-03/`](m06l02-03/)
+## Check yourself
+
+- What does a port identify?
+- Why does a loopback bind block remote clients?
+- What does a listening socket prove and not prove?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

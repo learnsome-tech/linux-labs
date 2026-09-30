@@ -1,20 +1,22 @@
-# Signals, And What kill Really Sends
+# m03l02 · Signals, And What kill Really Sends
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Processes, Signals And Services  
-**Lesson**: `m03l02`
+Module 3: Processes, Signals And Services · lesson 3.2 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m03l02)
 
-## Links
+**Goal:** Choose an appropriate Unix signal and understand what kill sends to a process
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m03l02)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-3-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m03l02-02](m03l02-02/) | Name the signal | Graded |
+| [m03l02-03](m03l02-03/) | Escalate deliberately | Graded |
 
-- [`m03l02-02/`](m03l02-02/)
-- [`m03l02-03/`](m03l02-03/)
+## Check yourself
+
+- What does kill send by default?
+- Why should TERM usually come before KILL?
+- What must you verify before sending a signal?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

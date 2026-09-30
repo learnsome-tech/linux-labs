@@ -1,0 +1,4 @@
+host=server
+key=abc
+known=no
+ask=verify

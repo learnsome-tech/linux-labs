@@ -1,0 +1,4 @@
+tcp=pass
+http=fail
+backend=drain
+action=remove

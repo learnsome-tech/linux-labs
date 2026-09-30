@@ -1,20 +1,22 @@
-# Inodes, Hard Links And What rm Removes
+# m01l04 · Inodes, Hard Links And What rm Removes
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: The Kernel, The Distribution, The Filesystem  
-**Lesson**: `m01l04`
+Module 1: The Kernel, The Distribution, The Filesystem · lesson 1.4 · Free · [Open the lesson](https://learnsome.tech/learn/linux-course/m01l04)
 
-## Links
+**Goal:** Explain how directory names point to inodes and why removing a name does not erase every reference
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m01l04)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-1-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m01l04-02](m01l04-02/) | A hard link is another name | Graded |
+| [m01l04-03](m01l04-03/) | rm removes a directory entry | Graded |
 
-- [`m01l04-02/`](m01l04-02/)
-- [`m01l04-03/`](m01l04-03/)
+## Check yourself
+
+- What does a directory entry point to?
+- How is a hard link different from a copied file?
+- Why can a deleted log continue to use disk space?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

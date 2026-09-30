@@ -1,0 +1,19 @@
+{
+  "lab": "m05l04-03",
+  "lesson": "m05l04",
+  "title": "Separate DNS from HTTP",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-separate-dns-from-http.py",
+  "main": "shell-separate-dns-from-http.py",
+  "files": [
+    "shell-separate-dns-from-http.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

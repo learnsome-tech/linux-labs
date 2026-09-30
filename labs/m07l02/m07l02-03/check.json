@@ -1,0 +1,19 @@
+{
+  "lab": "m07l02-03",
+  "lesson": "m07l02",
+  "title": "Find the TLS endpoint",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-find-the-tls-endpoint.py",
+  "main": "shell-find-the-tls-endpoint.py",
+  "files": [
+    "shell-find-the-tls-endpoint.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m04l02-02",
+  "lesson": "m04l02",
+  "title": "Map a family to its tool",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-map-a-family-to-its-tool.py",
+  "main": "shell-map-a-family-to-its-tool.py",
+  "files": [
+    "shell-map-a-family-to-its-tool.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

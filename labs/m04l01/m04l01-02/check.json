@@ -1,0 +1,19 @@
+{
+  "lab": "m04l01-02",
+  "lesson": "m04l01",
+  "title": "Record a package plan",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-record-a-package-plan.py",
+  "main": "shell-record-a-package-plan.py",
+  "files": [
+    "shell-record-a-package-plan.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

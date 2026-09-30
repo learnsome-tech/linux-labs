@@ -1,0 +1,19 @@
+{
+  "lab": "m04l03-02",
+  "lesson": "m04l03",
+  "title": "Read a storage map",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-a-storage-map.py",
+  "main": "shell-read-a-storage-map.py",
+  "files": [
+    "shell-read-a-storage-map.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

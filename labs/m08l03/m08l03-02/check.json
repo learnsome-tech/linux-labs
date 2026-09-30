@@ -1,0 +1,19 @@
+{
+  "lab": "m08l03-02",
+  "lesson": "m08l03",
+  "title": "Read backend selection",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-backend-selection.py",
+  "main": "shell-read-backend-selection.py",
+  "files": [
+    "shell-read-backend-selection.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

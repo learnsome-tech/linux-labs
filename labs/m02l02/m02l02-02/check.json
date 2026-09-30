@@ -1,0 +1,19 @@
+{
+  "lab": "m02l02-02",
+  "lesson": "m02l02",
+  "title": "Describe a shared project",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-describe-a-shared-project.py",
+  "main": "shell-describe-a-shared-project.py",
+  "files": [
+    "shell-describe-a-shared-project.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

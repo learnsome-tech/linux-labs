@@ -1,0 +1,19 @@
+{
+  "lab": "m06l01-02",
+  "lesson": "m06l01",
+  "title": "Compare transport choices",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-compare-transport-choices.py",
+  "main": "shell-compare-transport-choices.py",
+  "files": [
+    "shell-compare-transport-choices.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

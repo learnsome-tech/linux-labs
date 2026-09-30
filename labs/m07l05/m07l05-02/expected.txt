@@ -1,0 +1,5 @@
+alias=prod
+host=server
+user=ana
+p=22
+key=id_ed

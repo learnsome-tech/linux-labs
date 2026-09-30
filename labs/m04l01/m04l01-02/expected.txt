@@ -1,0 +1,4 @@
+name=web
+version=2
+source=stable
+deps=ssl

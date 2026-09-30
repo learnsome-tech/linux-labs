@@ -1,0 +1,3 @@
+account=carol
+added=writers
+session=renewed

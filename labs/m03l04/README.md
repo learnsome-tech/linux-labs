@@ -1,20 +1,22 @@
-# Booting: GRUB, The Kernel Command Line And initramfs
+# m03l04 · Booting: GRUB, The Kernel Command Line And initramfs
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Processes, Signals And Services  
-**Lesson**: `m03l04`
+Module 3: Processes, Signals And Services · lesson 3.4 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m03l04)
 
-## Links
+**Goal:** Trace the main Linux boot stages from firmware through the kernel and initramfs
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m03l04)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-3-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m03l04-02](m03l04-02/) | Read a boot selection | Graded |
+| [m03l04-03](m03l04-03/) | The command line changes behavior | Graded |
 
-- [`m03l04-02/`](m03l04-02/)
-- [`m03l04-03/`](m03l04-03/)
+## Check yourself
+
+- What does GRUB select for the kernel to load?
+- Why is an initramfs needed before the real root filesystem?
+- How can the kernel command line help explain a boot failure?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

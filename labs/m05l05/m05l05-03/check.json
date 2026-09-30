@@ -1,0 +1,19 @@
+{
+  "lab": "m05l05-03",
+  "lesson": "m05l05",
+  "title": "Account for cached time",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-account-for-cached-time.py",
+  "main": "shell-account-for-cached-time.py",
+  "files": [
+    "shell-account-for-cached-time.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

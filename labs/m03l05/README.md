@@ -1,20 +1,22 @@
-# systemd: Units, Targets And The Boot Graph
+# m03l05 · systemd: Units, Targets And The Boot Graph
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Processes, Signals And Services  
-**Lesson**: `m03l05`
+Module 3: Processes, Signals And Services · lesson 3.5 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m03l05)
 
-## Links
+**Goal:** Read systemd units and targets as a dependency graph rather than a flat startup script
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m03l05)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-3-5)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m03l05-02](m03l05-02/) | Read a unit relationship | Graded |
+| [m03l05-03](m03l05-03/) | Separate state from enablement | Graded |
 
-- [`m03l05-02/`](m03l05-02/)
-- [`m03l05-03/`](m03l05-03/)
+## Check yourself
+
+- What is a target in systemd?
+- How do ordering and dependency strength differ?
+- Why are active and enabled separate states?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

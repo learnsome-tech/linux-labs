@@ -1,0 +1,3 @@
+/proc=kernel
+/sys=device
+/dev=nodes

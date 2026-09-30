@@ -1,0 +1,4 @@
+pid=42
+parent=1
+stdout=log
+detached=yes

@@ -1,0 +1,19 @@
+{
+  "lab": "m02l02-03",
+  "lesson": "m02l02",
+  "title": "Membership changes at login",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-membership-changes-at-login.py",
+  "main": "shell-membership-changes-at-login.py",
+  "files": [
+    "shell-membership-changes-at-login.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

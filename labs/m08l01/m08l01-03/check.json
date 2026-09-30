@@ -1,0 +1,19 @@
+{
+  "lab": "m08l01-03",
+  "lesson": "m08l01",
+  "title": "State changes the return path",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-state-changes-the-return-path.py",
+  "main": "shell-state-changes-the-return-path.py",
+  "files": [
+    "shell-state-changes-the-return-path.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

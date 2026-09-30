@@ -1,20 +1,22 @@
-# Disks, Filesystems And Mounting
+# m04l03 · Disks, Filesystems And Mounting
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Packages, Disks And Space  
-**Lesson**: `m04l03`
+Module 4: Packages, Disks And Space · lesson 4.3 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m04l03)
 
-## Links
+**Goal:** Distinguish block devices, filesystems, and mount points when inspecting storage
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m04l03)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-4-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m04l03-02](m04l03-02/) | Read a storage map | Graded |
+| [m04l03-03](m04l03-03/) | Mount is an attachment | Graded |
 
-- [`m04l03-02/`](m04l03-02/)
-- [`m04l03-03/`](m04l03-03/)
+## Check yourself
+
+- How do a block device and filesystem differ?
+- What happens to existing path contents when a filesystem is mounted there?
+- Why is a read-only mount useful during investigation?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

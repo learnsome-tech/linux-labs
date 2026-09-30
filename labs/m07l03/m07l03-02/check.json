@@ -1,0 +1,19 @@
+{
+  "lab": "m07l03-02",
+  "lesson": "m07l03",
+  "title": "Read chain evidence",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-chain-evidence.py",
+  "main": "shell-read-chain-evidence.py",
+  "files": [
+    "shell-read-chain-evidence.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

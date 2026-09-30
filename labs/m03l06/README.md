@@ -1,20 +1,22 @@
-# Your Own Unit, And Reading journald
+# m03l06 · Your Own Unit, And Reading journald
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Processes, Signals And Services  
-**Lesson**: `m03l06`
+Module 3: Processes, Signals And Services · lesson 3.6 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m03l06)
 
-## Links
+**Goal:** Design a small systemd service and read its journal by unit and time
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m03l06)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-3-6)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m03l06-02](m03l06-02/) | Describe a unit file | Graded |
+| [m03l06-03](m03l06-03/) | Query the journal | Graded |
 
-- [`m03l06-02/`](m03l06-02/)
-- [`m03l06-03/`](m03l06-03/)
+## Check yourself
+
+- Which choices belong in a service unit?
+- Why filter journald by unit and time first?
+- How do status and journal evidence complement each other?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

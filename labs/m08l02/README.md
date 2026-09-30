@@ -1,20 +1,22 @@
-# Forward And Reverse Proxies
+# m08l02 · Forward And Reverse Proxies
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Serving, Guarding And Diagnosing  
-**Lesson**: `m08l02`
+Module 8: Serving, Guarding And Diagnosing · lesson 8.2 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m08l02)
 
-## Links
+**Goal:** Distinguish forward and reverse proxy roles and identify where each one terminates a request
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m08l02)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-8-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m08l02-02](m08l02-02/) | Describe a reverse proxy | Graded |
+| [m08l02-03](m08l02-03/) | Apply forward policy | Graded |
 
-- [`m08l02-02/`](m08l02-02/)
-- [`m08l02-03/`](m08l02-03/)
+## Check yourself
+
+- Who does a forward proxy represent?
+- Why inspect both legs of a reverse proxy request?
+- Where can a proxy change TLS or policy?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

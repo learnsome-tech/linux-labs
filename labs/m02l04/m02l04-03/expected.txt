@@ -1,0 +1,4 @@
+dir=/tmp/x
+mode=1770
+sticky=on
+group=team

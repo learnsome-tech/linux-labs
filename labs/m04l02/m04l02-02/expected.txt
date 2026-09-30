@@ -1,0 +1,3 @@
+debian=apt
+fedora=dnf
+arch=pacman

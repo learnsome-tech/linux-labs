@@ -1,0 +1,19 @@
+{
+  "lab": "m01l02-02",
+  "lesson": "m01l02",
+  "title": "Read the release identity",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-the-release-identity.py",
+  "main": "shell-read-the-release-identity.py",
+  "files": [
+    "shell-read-the-release-identity.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

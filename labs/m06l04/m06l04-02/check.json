@@ -1,0 +1,19 @@
+{
+  "lab": "m06l04-02",
+  "lesson": "m06l04",
+  "title": "Classify the result",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-classify-the-result.py",
+  "main": "shell-classify-the-result.py",
+  "files": [
+    "shell-classify-the-result.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

@@ -1,0 +1,4 @@
+source=disk1
+target=/mnt/x
+mode=ro
+mounted=yes

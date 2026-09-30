@@ -1,0 +1,3 @@
+path=/srv/p
+group=writers
+members=alice,bob

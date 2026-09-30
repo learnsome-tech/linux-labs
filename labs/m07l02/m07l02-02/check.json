@@ -1,0 +1,19 @@
+{
+  "lab": "m07l02-02",
+  "lesson": "m07l02",
+  "title": "List the TLS promises",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-list-the-tls-promises.py",
+  "main": "shell-list-the-tls-promises.py",
+  "files": [
+    "shell-list-the-tls-promises.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

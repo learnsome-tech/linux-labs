@@ -1,20 +1,22 @@
-# Load Balancing: Algorithms, Health Checks And Layers
+# m08l03 · Load Balancing: Algorithms, Health Checks And Layers
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Serving, Guarding And Diagnosing  
-**Lesson**: `m08l03`
+Module 8: Serving, Guarding And Diagnosing · lesson 8.3 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m08l03)
 
-## Links
+**Goal:** Explain how a load balancer selects backends and why health checks must test the right layer
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m08l03)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-8-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m08l03-02](m08l03-02/) | Read backend selection | Graded |
+| [m08l03-03](m08l03-03/) | Match the check to the layer | Graded |
 
-- [`m08l03-02/`](m08l03-02/)
-- [`m08l03-03/`](m08l03-03/)
+## Check yourself
+
+- How do round robin and least connections differ?
+- Why can a TCP check pass while an HTTP check fails?
+- What should you inspect when traffic looks uneven?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

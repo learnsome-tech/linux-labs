@@ -1,20 +1,22 @@
-# SSH Keys, The Agent And The Config File
+# m07l05 · SSH Keys, The Agent And The Config File
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: HTTP, TLS And SSH  
-**Lesson**: `m07l05`
+Module 7: HTTP, TLS And SSH · lesson 7.5 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m07l05)
 
-## Links
+**Goal:** Use SSH key, agent, and host configuration concepts without confusing convenience with authorization
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m07l05)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-7-5)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m07l05-02](m07l05-02/) | Read a host alias | Graded |
+| [m07l05-03](m07l05-03/) | Track the agent session | Graded |
 
-- [`m07l05-02/`](m07l05-02/)
-- [`m07l05-03/`](m07l05-03/)
+## Check yourself
+
+- Which half of an SSH key pair stays secret?
+- What does a config alias change?
+- Why limit agent forwarding and lifetime?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

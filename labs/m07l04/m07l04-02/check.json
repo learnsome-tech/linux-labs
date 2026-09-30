@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-02",
+  "lesson": "m07l04",
+  "title": "Check a host key",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-check-a-host-key.py",
+  "main": "shell-check-a-host-key.py",
+  "files": [
+    "shell-check-a-host-key.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

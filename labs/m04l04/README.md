@@ -1,20 +1,22 @@
-# Running Out Of Space: df, du And Inodes
+# m04l04 · Running Out Of Space: df, du And Inodes
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Packages, Disks And Space  
-**Lesson**: `m04l04`
+Module 4: Packages, Disks And Space · lesson 4.4 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m04l04)
 
-## Links
+**Goal:** Distinguish block exhaustion from inode exhaustion and use df and du evidence in the right order
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m04l04)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-4-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m04l04-02](m04l04-02/) | Read filesystem capacity | Graded |
+| [m04l04-03](m04l04-03/) | Find the directory pressure | Graded |
 
-- [`m04l04-02/`](m04l04-02/)
-- [`m04l04-03/`](m04l04-03/)
+## Check yourself
+
+- How can a filesystem be full when bytes remain?
+- What does du help you rank?
+- Why might df and du totals disagree?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

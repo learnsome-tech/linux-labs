@@ -1,0 +1,3 @@
+source=proc
+view=process
+owner=kernel

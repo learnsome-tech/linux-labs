@@ -1,0 +1,19 @@
+{
+  "lab": "m05l04-02",
+  "lesson": "m05l04",
+  "title": "Follow the resolution path",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-follow-the-resolution-path.py",
+  "main": "shell-follow-the-resolution-path.py",
+  "files": [
+    "shell-follow-the-resolution-path.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

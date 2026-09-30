@@ -1,0 +1,19 @@
+{
+  "lab": "m08l04-03",
+  "lesson": "m08l04",
+  "title": "Resolve and route",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-resolve-and-route.py",
+  "main": "shell-resolve-and-route.py",
+  "files": [
+    "shell-resolve-and-route.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m01l05-02",
+  "lesson": "m01l05",
+  "title": "Read a live view",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-a-live-view.py",
+  "main": "shell-read-a-live-view.py",
+  "files": [
+    "shell-read-a-live-view.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

@@ -1,20 +1,22 @@
-# HTTP Is Text: Requests, Status Codes And Headers
+# m07l01 · HTTP Is Text: Requests, Status Codes And Headers
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: HTTP, TLS And SSH  
-**Lesson**: `m07l01`
+Module 7: HTTP, TLS And SSH · lesson 7.1 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m07l01)
 
-## Links
+**Goal:** Read the main parts of an HTTP request and response and interpret common status classes
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m07l01)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-7-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m07l01-02](m07l01-02/) | Read a request | Graded |
+| [m07l01-03](m07l01-03/) | Classify the response | Graded |
 
-- [`m07l01-02/`](m07l01-02/)
-- [`m07l01-03/`](m07l01-03/)
+## Check yourself
+
+- What parts make up an HTTP request?
+- What does a status class tell you?
+- Why inspect headers as well as the body?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

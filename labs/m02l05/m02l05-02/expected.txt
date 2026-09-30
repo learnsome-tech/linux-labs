@@ -1,0 +1,4 @@
+real=1
+effective=0
+bit=setuid
+op=limited

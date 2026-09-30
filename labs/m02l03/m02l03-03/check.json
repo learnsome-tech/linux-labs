@@ -1,0 +1,19 @@
+{
+  "lab": "m02l03-03",
+  "lesson": "m02l03",
+  "title": "Change only the intended class",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-change-only-the-intended-class.py",
+  "main": "shell-change-only-the-intended-class.py",
+  "files": [
+    "shell-change-only-the-intended-class.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

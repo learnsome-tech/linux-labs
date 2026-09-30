@@ -1,0 +1,19 @@
+{
+  "lab": "m03l02-03",
+  "lesson": "m03l02",
+  "title": "Escalate deliberately",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-escalate-deliberately.py",
+  "main": "shell-escalate-deliberately.py",
+  "files": [
+    "shell-escalate-deliberately.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

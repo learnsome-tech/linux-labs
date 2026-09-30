@@ -1,20 +1,22 @@
-# What A Distribution Actually Is
+# m01l02 · What A Distribution Actually Is
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: The Kernel, The Distribution, The Filesystem  
-**Lesson**: `m01l02`
+Module 1: The Kernel, The Distribution, The Filesystem · lesson 1.2 · Free · [Open the lesson](https://learnsome.tech/learn/linux-course/m01l02)
 
-## Links
+**Goal:** Describe how a Linux distribution assembles a kernel, user space, and release policy
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m01l02)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-1-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m01l02-02](m01l02-02/) | Read the release identity | Graded |
+| [m01l02-03](m01l02-03/) | Policy is part of the product | Graded |
 
-- [`m01l02-02/`](m01l02-02/)
-- [`m01l02-03/`](m01l02-03/)
+## Check yourself
+
+- What components besides the kernel make up a distribution?
+- Why should you identify a host's release before following a runbook?
+- Which distribution choices affect package maintenance?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

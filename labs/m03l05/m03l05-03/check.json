@@ -1,0 +1,19 @@
+{
+  "lab": "m03l05-03",
+  "lesson": "m03l05",
+  "title": "Separate state from enablement",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-separate-state-from-enablement.py",
+  "main": "shell-separate-state-from-enablement.py",
+  "files": [
+    "shell-separate-state-from-enablement.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

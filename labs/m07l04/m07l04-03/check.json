@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-03",
+  "lesson": "m07l04",
+  "title": "Authenticate after identity",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-authenticate-after-identity.py",
+  "main": "shell-authenticate-after-identity.py",
+  "files": [
+    "shell-authenticate-after-identity.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m02l05-02",
+  "lesson": "m02l05",
+  "title": "Describe a setuid boundary",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-describe-a-setuid-boundary.py",
+  "main": "shell-describe-a-setuid-boundary.py",
+  "files": [
+    "shell-describe-a-setuid-boundary.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

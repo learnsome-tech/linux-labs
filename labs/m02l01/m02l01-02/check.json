@@ -1,0 +1,19 @@
+{
+  "lab": "m02l01-02",
+  "lesson": "m02l01",
+  "title": "Read an account record",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-an-account-record.py",
+  "main": "shell-read-an-account-record.py",
+  "files": [
+    "shell-read-an-account-record.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

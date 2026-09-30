@@ -1,0 +1,19 @@
+{
+  "lab": "m08l05-03",
+  "lesson": "m08l05",
+  "title": "Locate the missing leg",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-locate-the-missing-leg.py",
+  "main": "shell-locate-the-missing-leg.py",
+  "files": [
+    "shell-locate-the-missing-leg.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

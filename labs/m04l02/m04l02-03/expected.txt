@@ -1,0 +1,4 @@
+fam=apt
+package=web
+action=install
+preview=yes

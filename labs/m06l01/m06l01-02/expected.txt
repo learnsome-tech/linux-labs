@@ -1,0 +1,6 @@
+tcp=s
+o=y
+r=y
+udp=d
+o=n
+r=n

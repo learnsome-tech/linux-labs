@@ -1,0 +1,19 @@
+{
+  "lab": "m02l03-02",
+  "lesson": "m02l03",
+  "title": "Read symbolic and octal modes",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-symbolic-and-octal-modes.py",
+  "main": "shell-read-symbolic-and-octal-modes.py",
+  "files": [
+    "shell-read-symbolic-and-octal-modes.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

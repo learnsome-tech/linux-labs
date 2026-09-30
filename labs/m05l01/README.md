@@ -1,20 +1,22 @@
-# The Layer Model, As Far As It Earns Its Place
+# m05l01 · The Layer Model, As Far As It Earns Its Place
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Addresses And Routes  
-**Lesson**: `m05l01`
+Module 5: Addresses And Routes · lesson 5.1 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m05l01)
 
-## Links
+**Goal:** Use a small network layer model to locate where a connection problem begins
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m05l01)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-5-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m05l01-02](m05l01-02/) | Map a request to layers | Graded |
+| [m05l01-03](m05l01-03/) | Stop at the first failed layer | Graded |
 
-- [`m05l01-02/`](m05l01-02/)
-- [`m05l01-03/`](m05l01-03/)
+## Check yourself
+
+- What question does the network layer answer?
+- Why test routing before HTTP?
+- What should a diagnostic record capture first?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

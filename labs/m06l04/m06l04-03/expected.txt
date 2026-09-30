@@ -1,0 +1,3 @@
+result=timeout
+next=route
+vantage=second-host

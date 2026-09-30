@@ -1,0 +1,19 @@
+{
+  "lab": "m02l01-03",
+  "lesson": "m02l01",
+  "title": "Names are not secrets",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-names-are-not-secrets.py",
+  "main": "shell-names-are-not-secrets.py",
+  "files": [
+    "shell-names-are-not-secrets.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

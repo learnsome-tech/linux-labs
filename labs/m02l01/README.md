@@ -1,20 +1,22 @@
-# Users, UIDs And The Password File
+# m02l01 · Users, UIDs And The Password File
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Users, Groups And Permissions  
-**Lesson**: `m02l01`
+Module 2: Users, Groups And Permissions · lesson 2.1 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m02l01)
 
-## Links
+**Goal:** Explain how Linux identifies users with UIDs and how account metadata is separated from password hashes
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m02l01)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-2-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m02l01-02](m02l01-02/) | Read an account record | Graded |
+| [m02l01-03](m02l01-03/) | Names are not secrets | Graded |
 
-- [`m02l01-02/`](m02l01-02/)
-- [`m02l01-03/`](m02l01-03/)
+## Check yourself
+
+- Why does the kernel use UIDs instead of login names?
+- Which fields describe how a user starts a session?
+- Why are account metadata and password hashes separated?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

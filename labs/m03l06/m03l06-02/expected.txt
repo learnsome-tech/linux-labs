@@ -1,0 +1,4 @@
+unit=worker
+exec=worker
+restart=fail
+user=worker

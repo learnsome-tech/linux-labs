@@ -1,0 +1,19 @@
+{
+  "lab": "m08l02-03",
+  "lesson": "m08l02",
+  "title": "Apply forward policy",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-apply-forward-policy.py",
+  "main": "shell-apply-forward-policy.py",
+  "files": [
+    "shell-apply-forward-policy.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

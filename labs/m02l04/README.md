@@ -1,20 +1,22 @@
-# Directories, Umask And The Sticky Bit
+# m02l04 · Directories, Umask And The Sticky Bit
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Users, Groups And Permissions  
-**Lesson**: `m02l04`
+Module 2: Users, Groups And Permissions · lesson 2.4 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m02l04)
 
-## Links
+**Goal:** Predict default permissions for new objects and explain how the sticky bit protects shared directories
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m02l04)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-2-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m02l04-02](m02l04-02/) | Apply a umask | Graded |
+| [m02l04-03](m02l04-03/) | Protect a shared directory | Graded |
 
-- [`m02l04-02/`](m02l04-02/)
-- [`m02l04-03/`](m02l04-03/)
+## Check yourself
+
+- What does umask remove from a requested mode?
+- Why do directories need search permission?
+- What extra rule does the sticky bit add?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

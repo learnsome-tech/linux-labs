@@ -1,20 +1,22 @@
-# Job Control, And Processes That Outlive You
+# m03l03 · Job Control, And Processes That Outlive You
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Processes, Signals And Services  
-**Lesson**: `m03l03`
+Module 3: Processes, Signals And Services · lesson 3.3 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m03l03)
 
-## Links
+**Goal:** Explain foreground and background jobs and how a process can outlive the shell that started it
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m03l03)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-3-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m03l03-02](m03l03-02/) | Represent a background job | Graded |
+| [m03l03-03](m03l03-03/) | Detach intentionally | Graded |
 
-- [`m03l03-02/`](m03l03-02/)
-- [`m03l03-03/`](m03l03-03/)
+## Check yourself
+
+- What does a shell job number identify?
+- Why does backgrounding alone not survive logout reliably?
+- When should work move to a service manager?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

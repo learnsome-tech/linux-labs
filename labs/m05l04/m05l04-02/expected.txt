@@ -1,0 +1,4 @@
+name=test
+stub=local
+rec=resolver
+auth=zone

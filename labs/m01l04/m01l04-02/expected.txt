@@ -1,0 +1,3 @@
+inode=42
+names=report,archive
+links=2

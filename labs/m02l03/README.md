@@ -1,20 +1,22 @@
-# Reading And Setting A File Mode
+# m02l03 · Reading And Setting A File Mode
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Users, Groups And Permissions  
-**Lesson**: `m02l03`
+Module 2: Users, Groups And Permissions · lesson 2.3 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m02l03)
 
-## Links
+**Goal:** Read a Unix file mode and choose owner, group, and other permissions deliberately
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m02l03)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-2-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m02l03-02](m02l03-02/) | Read symbolic and octal modes | Graded |
+| [m02l03-03](m02l03-03/) | Change only the intended class | Graded |
 
-- [`m02l03-02/`](m02l03-02/)
-- [`m02l03-03/`](m02l03-03/)
+## Check yourself
+
+- Which three classes receive permission bits?
+- How does execute permission differ on a directory?
+- When is a symbolic mode change useful?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

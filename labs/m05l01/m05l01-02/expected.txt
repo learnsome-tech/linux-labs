@@ -1,0 +1,4 @@
+link=up
+route=known
+port=open
+app=http

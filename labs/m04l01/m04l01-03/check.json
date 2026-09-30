@@ -1,0 +1,19 @@
+{
+  "lab": "m04l01-03",
+  "lesson": "m04l01",
+  "title": "Ownership answers why",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-ownership-answers-why.py",
+  "main": "shell-ownership-answers-why.py",
+  "files": [
+    "shell-ownership-answers-why.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

@@ -1,0 +1,3 @@
+file=/etc/web.conf
+owner=web
+action=installed

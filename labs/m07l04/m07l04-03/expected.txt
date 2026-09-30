@@ -1,0 +1,4 @@
+host=ok
+user=ana
+meth=key
+result=ok

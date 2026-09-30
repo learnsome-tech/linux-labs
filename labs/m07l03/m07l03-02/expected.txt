@@ -1,0 +1,4 @@
+host=example
+subj=example
+iss=inter
+chain=ok

@@ -1,0 +1,19 @@
+{
+  "lab": "m02l05-03",
+  "lesson": "m02l05",
+  "title": "sudo records an approved action",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-sudo-records-an-approved-action.py",
+  "main": "shell-sudo-records-an-approved-action.py",
+  "files": [
+    "shell-sudo-records-an-approved-action.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m01l05-03",
+  "lesson": "m01l05",
+  "title": "Device names are interfaces",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-device-names-are-interfaces.py",
+  "main": "shell-device-names-are-interfaces.py",
+  "files": [
+    "shell-device-names-are-interfaces.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

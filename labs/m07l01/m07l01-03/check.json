@@ -1,0 +1,19 @@
+{
+  "lab": "m07l01-03",
+  "lesson": "m07l01",
+  "title": "Classify the response",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-classify-the-response.py",
+  "main": "shell-classify-the-response.py",
+  "files": [
+    "shell-classify-the-response.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

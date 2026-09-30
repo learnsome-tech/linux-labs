@@ -1,20 +1,22 @@
-# Three Families: apt, dnf And pacman
+# m04l02 · Three Families: apt, dnf And pacman
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Packages, Disks And Space  
-**Lesson**: `m04l02`
+Module 4: Packages, Disks And Space · lesson 4.2 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m04l02)
 
-## Links
+**Goal:** Recognize the apt, dnf, and pacman package families and choose commands from the host distribution
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m04l02)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-4-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m04l02-02](m04l02-02/) | Map a family to its tool | Graded |
+| [m04l02-03](m04l02-03/) | Compare a transaction preview | Graded |
 
-- [`m04l02-02/`](m04l02-02/)
-- [`m04l02-03/`](m04l02-03/)
+## Check yourself
+
+- Which package family commonly uses dnf?
+- Why identify the distribution before choosing a command?
+- What should a transaction preview reveal?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

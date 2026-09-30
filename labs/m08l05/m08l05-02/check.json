@@ -1,0 +1,19 @@
+{
+  "lab": "m08l05-02",
+  "lesson": "m08l05",
+  "title": "Check listener and answer",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-check-listener-and-answer.py",
+  "main": "shell-check-listener-and-answer.py",
+  "files": [
+    "shell-check-listener-and-answer.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

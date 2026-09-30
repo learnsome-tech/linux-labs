@@ -1,0 +1,19 @@
+{
+  "lab": "m05l01-03",
+  "lesson": "m05l01",
+  "title": "Stop at the first failed layer",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-stop-at-the-first-failed-layer.py",
+  "main": "shell-stop-at-the-first-failed-layer.py",
+  "files": [
+    "shell-stop-at-the-first-failed-layer.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

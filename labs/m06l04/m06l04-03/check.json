@@ -1,0 +1,19 @@
+{
+  "lab": "m06l04-03",
+  "lesson": "m06l04",
+  "title": "Record the next test",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-record-the-next-test.py",
+  "main": "shell-record-the-next-test.py",
+  "files": [
+    "shell-record-the-next-test.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

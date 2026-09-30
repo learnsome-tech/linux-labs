@@ -1,0 +1,19 @@
+{
+  "lab": "m06l01-03",
+  "lesson": "m06l01",
+  "title": "Transport is not the application",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-transport-is-not-the-application.py",
+  "main": "shell-transport-is-not-the-application.py",
+  "files": [
+    "shell-transport-is-not-the-application.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

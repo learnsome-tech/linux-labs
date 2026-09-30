@@ -1,20 +1,22 @@
-# Everything Is A File: proc, sys And dev
+# m01l05 · Everything Is A File: proc, sys And dev
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: The Kernel, The Distribution, The Filesystem  
-**Lesson**: `m01l05`
+Module 1: The Kernel, The Distribution, The Filesystem · lesson 1.5 · Free · [Open the lesson](https://learnsome.tech/learn/linux-course/m01l05)
 
-## Links
+**Goal:** Distinguish ordinary files from the kernel-backed interfaces exposed through proc, sys, and dev
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m01l05)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-1-5)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m01l05-02](m01l05-02/) | Read a live view | Graded |
+| [m01l05-03](m01l05-03/) | Device names are interfaces | Graded |
 
-- [`m01l05-02/`](m01l05-02/)
-- [`m01l05-03/`](m01l05-03/)
+## Check yourself
+
+- Why does everything is a file not mean everything is stored on disk?
+- What kinds of state do proc and sys expose?
+- Why should you identify a device node before writing to it?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

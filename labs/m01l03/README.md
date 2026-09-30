@@ -1,20 +1,22 @@
-# The Filesystem Hierarchy
+# m01l03 · The Filesystem Hierarchy
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: The Kernel, The Distribution, The Filesystem  
-**Lesson**: `m01l03`
+Module 1: The Kernel, The Distribution, The Filesystem · lesson 1.3 · Free · [Open the lesson](https://learnsome.tech/learn/linux-course/m01l03)
 
-## Links
+**Goal:** Navigate the Linux filesystem hierarchy by purpose rather than by memorized paths
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m01l03)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-1-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m01l03-02](m01l03-02/) | Classify common paths | Graded |
+| [m01l03-03](m01l03-03/) | Separate special views | Graded |
 
-- [`m01l03-02/`](m01l03-02/)
-- [`m01l03-03/`](m01l03-03/)
+## Check yourself
+
+- What does the root directory represent?
+- Where would you look for configuration and changing logs?
+- Why are proc, sys, and dev different from ordinary data directories?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

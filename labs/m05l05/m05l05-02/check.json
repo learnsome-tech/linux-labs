@@ -1,0 +1,19 @@
+{
+  "lab": "m05l05-02",
+  "lesson": "m05l05",
+  "title": "Read typed records",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-typed-records.py",
+  "main": "shell-read-typed-records.py",
+  "files": [
+    "shell-read-typed-records.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m07l03-03",
+  "lesson": "m07l03",
+  "title": "Separate proof from trust",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-separate-proof-from-trust.py",
+  "main": "shell-separate-proof-from-trust.py",
+  "files": [
+    "shell-separate-proof-from-trust.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

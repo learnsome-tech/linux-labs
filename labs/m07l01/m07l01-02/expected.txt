@@ -1,0 +1,4 @@
+m=GET
+t=/health
+host=example
+accept=text

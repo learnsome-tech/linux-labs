@@ -1,0 +1,4 @@
+dns=udp
+port=53
+https=tcp
+port2=443

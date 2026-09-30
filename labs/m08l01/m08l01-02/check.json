@@ -1,0 +1,19 @@
+{
+  "lab": "m08l01-02",
+  "lesson": "m08l01",
+  "title": "Read a firewall policy",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-a-firewall-policy.py",
+  "main": "shell-read-a-firewall-policy.py",
+  "files": [
+    "shell-read-a-firewall-policy.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

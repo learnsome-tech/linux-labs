@@ -1,0 +1,4 @@
+dns=ok
+ip=192.0.2.10
+route=?
+svc=?

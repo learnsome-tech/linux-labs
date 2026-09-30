@@ -1,0 +1,19 @@
+{
+  "lab": "m01l04-02",
+  "lesson": "m01l04",
+  "title": "A hard link is another name",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-a-hard-link-is-another-name.py",
+  "main": "shell-a-hard-link-is-another-name.py",
+  "files": [
+    "shell-a-hard-link-is-another-name.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

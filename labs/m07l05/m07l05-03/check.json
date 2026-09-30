@@ -1,0 +1,19 @@
+{
+  "lab": "m07l05-03",
+  "lesson": "m07l05",
+  "title": "Track the agent session",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-track-the-agent-session.py",
+  "main": "shell-track-the-agent-session.py",
+  "files": [
+    "shell-track-the-agent-session.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m01l02-03",
+  "lesson": "m01l02",
+  "title": "Policy is part of the product",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-policy-is-part-of-the-product.py",
+  "main": "shell-policy-is-part-of-the-product.py",
+  "files": [
+    "shell-policy-is-part-of-the-product.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

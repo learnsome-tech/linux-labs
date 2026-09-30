@@ -1,20 +1,22 @@
-# Groups, And How Shared Access Is Granted
+# m02l02 · Groups, And How Shared Access Is Granted
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Users, Groups And Permissions  
-**Lesson**: `m02l02`
+Module 2: Users, Groups And Permissions · lesson 2.2 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m02l02)
 
-## Links
+**Goal:** Use supplementary groups to reason about shared ownership and access without making files world writable
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m02l02)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-2-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m02l02-02](m02l02-02/) | Describe a shared project | Graded |
+| [m02l02-03](m02l02-03/) | Membership changes at login | Graded |
 
-- [`m02l02-02/`](m02l02-02/)
-- [`m02l02-03/`](m02l02-03/)
+## Check yourself
+
+- How does a group simplify shared file access?
+- Why might a new group membership not work in an existing shell?
+- Why is group access preferable to world writable permissions?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

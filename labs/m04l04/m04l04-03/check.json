@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-03",
+  "lesson": "m04l04",
+  "title": "Find the directory pressure",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-find-the-directory-pressure.py",
+  "main": "shell-find-the-directory-pressure.py",
+  "files": [
+    "shell-find-the-directory-pressure.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

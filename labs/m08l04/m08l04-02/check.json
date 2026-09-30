@@ -1,0 +1,19 @@
+{
+  "lab": "m08l04-02",
+  "lesson": "m08l04",
+  "title": "Check the local process",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-check-the-local-process.py",
+  "main": "shell-check-the-local-process.py",
+  "files": [
+    "shell-check-the-local-process.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

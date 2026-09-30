@@ -1,20 +1,22 @@
-# Firewalls: Default Deny, State And Rule Order
+# m08l01 · Firewalls: Default Deny, State And Rule Order
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Serving, Guarding And Diagnosing  
-**Lesson**: `m08l01`
+Module 8: Serving, Guarding And Diagnosing · lesson 8.1 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m08l01)
 
-## Links
+**Goal:** Reason about firewall defaults, stateful return traffic, and first-match rule order
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m08l01)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-8-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m08l01-02](m08l01-02/) | Read a firewall policy | Graded |
+| [m08l01-03](m08l01-03/) | State changes the return path | Graded |
 
-- [`m08l01-02/`](m08l01-02/)
-- [`m08l01-03/`](m08l01-03/)
+## Check yourself
+
+- What does default deny require?
+- How does stateful filtering handle return traffic?
+- Which fields make a firewall rule reviewable?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

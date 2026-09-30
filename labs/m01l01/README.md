@@ -1,20 +1,22 @@
-# What A Kernel Does, And What It Refuses To Do
+# m01l01 · What A Kernel Does, And What It Refuses To Do
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: The Kernel, The Distribution, The Filesystem  
-**Lesson**: `m01l01`
+Module 1: The Kernel, The Distribution, The Filesystem · lesson 1.1 · Free · [Open the lesson](https://learnsome.tech/learn/linux-course/m01l01)
 
-## Links
+**Goal:** Explain how the kernel mediates hardware access without replacing user space
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m01l01)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-1-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m01l01-02](m01l01-02/) | A shell is user space | Graded |
+| [m01l01-03](m01l01-03/) | The kernel supplies the mechanism | Graded |
 
-- [`m01l01-02/`](m01l01-02/)
-- [`m01l01-03/`](m01l01-03/)
+## Check yourself
+
+- Which kinds of work belong to the kernel?
+- Why is a shell considered a user space program?
+- How does separating layers help you troubleshoot a failure?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

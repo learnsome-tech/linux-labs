@@ -1,0 +1,5 @@
+mode=fwd
+user=ana
+dest=ex
+allow=yes
+cache=hit

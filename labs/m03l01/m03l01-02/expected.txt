@@ -1,0 +1,4 @@
+pid=42
+ppid=1
+user=ana
+cmd=worker

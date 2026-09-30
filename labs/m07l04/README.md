@@ -1,20 +1,22 @@
-# SSH: The Protocol, And The Host Key You Accept
+# m07l04 · SSH: The Protocol, And The Host Key You Accept
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: HTTP, TLS And SSH  
-**Lesson**: `m07l04`
+Module 7: HTTP, TLS And SSH · lesson 7.4 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m07l04)
 
-## Links
+**Goal:** Explain SSH host key verification and distinguish server identity from user authentication
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m07l04)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-7-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m07l04-02](m07l04-02/) | Check a host key | Graded |
+| [m07l04-03](m07l04-03/) | Authenticate after identity | Graded |
 
-- [`m07l04-02/`](m07l04-02/)
-- [`m07l04-03/`](m07l04-03/)
+## Check yourself
+
+- What does an SSH host key identify?
+- Why verify a changed key independently?
+- How is host identity different from user authentication?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

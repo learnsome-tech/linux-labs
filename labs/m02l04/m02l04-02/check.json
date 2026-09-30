@@ -1,0 +1,19 @@
+{
+  "lab": "m02l04-02",
+  "lesson": "m02l04",
+  "title": "Apply a umask",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-apply-a-umask.py",
+  "main": "shell-apply-a-umask.py",
+  "files": [
+    "shell-apply-a-umask.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

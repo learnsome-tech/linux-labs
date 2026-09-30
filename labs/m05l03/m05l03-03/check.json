@@ -1,0 +1,19 @@
+{
+  "lab": "m05l03-03",
+  "lesson": "m05l03",
+  "title": "Choose the route",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-choose-the-route.py",
+  "main": "shell-choose-the-route.py",
+  "files": [
+    "shell-choose-the-route.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

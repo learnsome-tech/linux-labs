@@ -1,0 +1,4 @@
+name=www
+ttl=300
+remaining=120
+source=cache

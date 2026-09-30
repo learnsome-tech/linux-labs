@@ -1,0 +1,19 @@
+{
+  "lab": "m05l02-02",
+  "lesson": "m05l02",
+  "title": "Read a subnet",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-a-subnet.py",
+  "main": "shell-read-a-subnet.py",
+  "files": [
+    "shell-read-a-subnet.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

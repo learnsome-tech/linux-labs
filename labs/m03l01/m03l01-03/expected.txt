@@ -1,0 +1,4 @@
+pid=42
+state=sleeping
+fds=2
+memory=18M

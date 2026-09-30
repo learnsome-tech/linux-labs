@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-02",
+  "lesson": "m04l04",
+  "title": "Read filesystem capacity",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-filesystem-capacity.py",
+  "main": "shell-read-filesystem-capacity.py",
+  "files": [
+    "shell-read-filesystem-capacity.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

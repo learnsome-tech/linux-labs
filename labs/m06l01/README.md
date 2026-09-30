@@ -1,20 +1,22 @@
-# TCP Versus UDP
+# m06l01 · TCP Versus UDP
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Transport, Ports And Sockets  
-**Lesson**: `m06l01`
+Module 6: Transport, Ports And Sockets · lesson 6.1 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m06l01)
 
-## Links
+**Goal:** Choose between TCP and UDP by comparing connection state, delivery guarantees, and application needs
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m06l01)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-6-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m06l01-02](m06l01-02/) | Compare transport choices | Graded |
+| [m06l01-03](m06l01-03/) | Transport is not the application | Graded |
 
-- [`m06l01-02/`](m06l01-02/)
-- [`m06l01-03/`](m06l01-03/)
+## Check yourself
+
+- What does TCP provide that UDP does not?
+- Why might an application choose UDP?
+- Why test the transport before the application payload?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

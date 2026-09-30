@@ -1,0 +1,4 @@
+target=42
+sig=KILL
+why=timeout
+cleanup=none

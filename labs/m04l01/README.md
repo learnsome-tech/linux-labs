@@ -1,20 +1,22 @@
-# What A Package Manager Guarantees
+# m04l01 · What A Package Manager Guarantees
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Packages, Disks And Space  
-**Lesson**: `m04l01`
+Module 4: Packages, Disks And Space · lesson 4.1 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m04l01)
 
-## Links
+**Goal:** Explain how a package manager tracks files, dependencies, versions, and trusted sources
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m04l01)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-4-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m04l01-02](m04l01-02/) | Record a package plan | Graded |
+| [m04l01-03](m04l01-03/) | Ownership answers why | Graded |
 
-- [`m04l01-02/`](m04l01-02/)
-- [`m04l01-03/`](m04l01-03/)
+## Check yourself
+
+- What does a package database track?
+- Why inspect a transaction plan before applying it?
+- What can a package manager not guarantee?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

@@ -1,0 +1,4 @@
+iface=eth0
+admin=up
+link=up
+ip=192.0.2.42

@@ -1,20 +1,22 @@
-# What HTTPS Adds, And What It Does Not
+# m07l02 · What HTTPS Adds, And What It Does Not
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: HTTP, TLS And SSH  
-**Lesson**: `m07l02`
+Module 7: HTTP, TLS And SSH · lesson 7.2 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m07l02)
 
-## Links
+**Goal:** Explain how HTTPS uses TLS to protect HTTP in transit and where that protection ends
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m07l02)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-7-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m07l02-02](m07l02-02/) | List the TLS promises | Graded |
+| [m07l02-03](m07l02-03/) | Find the TLS endpoint | Graded |
 
-- [`m07l02-02/`](m07l02-02/)
-- [`m07l02-03/`](m07l02-03/)
+## Check yourself
+
+- What does TLS add to HTTP?
+- What does HTTPS not guarantee about the application?
+- Why locate the TLS termination point?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

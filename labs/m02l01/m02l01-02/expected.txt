@@ -1,0 +1,4 @@
+name=ana
+uid=1001
+group=staff
+home=/home/a

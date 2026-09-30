@@ -1,0 +1,4 @@
+root=/dev/root
+loglevel=4
+console=tty
+quiet=yes

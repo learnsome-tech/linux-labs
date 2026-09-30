@@ -1,0 +1,19 @@
+{
+  "lab": "m04l02-03",
+  "lesson": "m04l02",
+  "title": "Compare a transaction preview",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-compare-a-transaction-preview.py",
+  "main": "shell-compare-a-transaction-preview.py",
+  "files": [
+    "shell-compare-a-transaction-preview.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

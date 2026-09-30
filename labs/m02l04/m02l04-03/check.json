@@ -1,0 +1,19 @@
+{
+  "lab": "m02l04-03",
+  "lesson": "m02l04",
+  "title": "Protect a shared directory",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-protect-a-shared-directory.py",
+  "main": "shell-protect-a-shared-directory.py",
+  "files": [
+    "shell-protect-a-shared-directory.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

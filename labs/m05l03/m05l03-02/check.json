@@ -1,0 +1,19 @@
+{
+  "lab": "m05l03-02",
+  "lesson": "m05l03",
+  "title": "Read interface state",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-interface-state.py",
+  "main": "shell-read-interface-state.py",
+  "files": [
+    "shell-read-interface-state.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

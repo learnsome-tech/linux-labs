@@ -1,0 +1,19 @@
+{
+  "lab": "m03l06-03",
+  "lesson": "m03l06",
+  "title": "Query the journal",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-query-the-journal.py",
+  "main": "shell-query-the-journal.py",
+  "files": [
+    "shell-query-the-journal.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

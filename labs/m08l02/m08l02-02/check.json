@@ -1,0 +1,19 @@
+{
+  "lab": "m08l02-02",
+  "lesson": "m08l02",
+  "title": "Describe a reverse proxy",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-describe-a-reverse-proxy.py",
+  "main": "shell-describe-a-reverse-proxy.py",
+  "files": [
+    "shell-describe-a-reverse-proxy.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

@@ -1,20 +1,22 @@
-# Record Types, Caching And Time To Live
+# m05l05 · Record Types, Caching And Time To Live
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Addresses And Routes  
-**Lesson**: `m05l05`
+Module 5: Addresses And Routes · lesson 5.5 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m05l05)
 
-## Links
+**Goal:** Interpret common DNS records and explain how TTL controls cached answer freshness
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m05l05)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-5-5)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m05l05-02](m05l05-02/) | Read typed records | Graded |
+| [m05l05-03](m05l05-03/) | Account for cached time | Graded |
 
-- [`m05l05-02/`](m05l05-02/)
-- [`m05l05-03/`](m05l05-03/)
+## Check yourself
+
+- Which record maps a name to IPv4?
+- What does a CNAME represent?
+- Why can two clients temporarily see different answers?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

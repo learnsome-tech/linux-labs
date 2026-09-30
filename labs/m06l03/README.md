@@ -1,20 +1,22 @@
-# The Handshake, And The States A Socket Passes Through
+# m06l03 · The Handshake, And The States A Socket Passes Through
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Transport, Ports And Sockets  
-**Lesson**: `m06l03`
+Module 6: Transport, Ports And Sockets · lesson 6.3 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m06l03)
 
-## Links
+**Goal:** Trace the TCP handshake and use socket states to locate connection progress
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m06l03)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-6-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m06l03-02](m06l03-02/) | Read the handshake | Graded |
+| [m06l03-03](m06l03-03/) | Interpret a socket state | Graded |
 
-- [`m06l03-02/`](m06l03-02/)
-- [`m06l03-03/`](m06l03-03/)
+## Check yourself
+
+- What does the TCP handshake establish?
+- What does SYN-SENT indicate?
+- Why inspect both endpoints of a stalled connection?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

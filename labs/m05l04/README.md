@@ -1,20 +1,22 @@
-# DNS Resolution, End To End
+# m05l04 · DNS Resolution, End To End
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Addresses And Routes  
-**Lesson**: `m05l04`
+Module 5: Addresses And Routes · lesson 5.4 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m05l04)
 
-## Links
+**Goal:** Trace a DNS name from an application through a resolver to an authoritative answer
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m05l04)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-5-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m05l04-02](m05l04-02/) | Follow the resolution path | Graded |
+| [m05l04-03](m05l04-03/) | Separate DNS from HTTP | Graded |
 
-- [`m05l04-02/`](m05l04-02/)
-- [`m05l04-03/`](m05l04-03/)
+## Check yourself
+
+- What does a recursive resolver do?
+- Why can a DNS answer be correct while an application fails?
+- Which steps follow DNS on the diagnostic ladder?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

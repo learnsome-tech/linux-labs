@@ -1,0 +1,3 @@
+account=analyst
+credential=protected
+hash=stored

@@ -1,20 +1,22 @@
-# The Diagnostic Ladder: Is It Listening, Answering, Arriving
+# m08l05 · The Diagnostic Ladder: Is It Listening, Answering, Arriving
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Serving, Guarding And Diagnosing  
-**Lesson**: `m08l05`
+Module 8: Serving, Guarding And Diagnosing · lesson 8.5 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m08l05)
 
-## Links
+**Goal:** Complete a service diagnostic by checking listeners, application responses, and packet arrival
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m08l05)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-8-5)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m08l05-02](m08l05-02/) | Check listener and answer | Graded |
+| [m08l05-03](m08l05-03/) | Locate the missing leg | Graded |
 
-- [`m08l05-02/`](m08l05-02/)
-- [`m08l05-03/`](m08l05-03/)
+## Check yourself
+
+- Why does listening not prove an application is healthy?
+- What does packet arrival tell you?
+- How does the first failed rung guide the next action?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

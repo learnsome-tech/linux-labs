@@ -1,0 +1,3 @@
+request=666
+umask=027
+result=640

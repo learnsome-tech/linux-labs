@@ -1,0 +1,19 @@
+{
+  "lab": "m05l01-02",
+  "lesson": "m05l01",
+  "title": "Map a request to layers",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-map-a-request-to-layers.py",
+  "main": "shell-map-a-request-to-layers.py",
+  "files": [
+    "shell-map-a-request-to-layers.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

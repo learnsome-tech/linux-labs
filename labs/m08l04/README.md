@@ -1,20 +1,23 @@
-# The Diagnostic Ladder: Is It Up, Is It Named, Is It Routed
+# m08l04 · The Diagnostic Ladder: Is It Up, Is It Named, Is It Routed
 
-**Course**: [Linux Fundamentals & Systems Administration](https://learnsome.tech/courses/linux-course)  
-**Module**: Serving, Guarding And Diagnosing  
-**Lesson**: `m08l04`
+Module 8: Serving, Guarding And Diagnosing · lesson 8.4 · Pro · [Open the lesson](https://learnsome.tech/learn/linux-course/m08l04)
 
-## Links
+**Goal:** You can diagnose a service in order by checking process state, name resolution, and the route to its address.
 
-- [Watch lesson](https://learnsome.tech/courses/linux-course/watch?lesson=m08l04)
-- [Handbook](https://learnsome.tech/courses/linux-course/book#lesson-8-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m08l04-02](m08l04-02/) | Check the local process | Graded |
+| [m08l04-03](m08l04-03/) | Resolve and route | Graded |
 
-- [`m08l04-02/`](m08l04-02/)
-- [`m08l04-03/`](m08l04-03/)
+## Check yourself
+
+- Why check process state before firewall rules?
+- What can a wrong name resolution result look like?
+- Why must a route exist before transport testing?
+- What are the three first rungs of the ladder?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Linux Fundamentals & Systems Administration on LearnSome.tech](https://learnsome.tech/courses/linux-course)

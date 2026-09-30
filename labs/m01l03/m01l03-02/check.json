@@ -1,0 +1,19 @@
+{
+  "lab": "m01l03-02",
+  "lesson": "m01l03",
+  "title": "Classify common paths",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-classify-common-paths.py",
+  "main": "shell-classify-common-paths.py",
+  "files": [
+    "shell-classify-common-paths.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

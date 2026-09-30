@@ -1,0 +1,19 @@
+{
+  "lab": "m06l03-02",
+  "lesson": "m06l03",
+  "title": "Read the handshake",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-the-handshake.py",
+  "main": "shell-read-the-handshake.py",
+  "files": [
+    "shell-read-the-handshake.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

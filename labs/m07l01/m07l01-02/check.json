@@ -1,0 +1,19 @@
+{
+  "lab": "m07l01-02",
+  "lesson": "m07l01",
+  "title": "Read a request",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-a-request.py",
+  "main": "shell-read-a-request.py",
+  "files": [
+    "shell-read-a-request.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

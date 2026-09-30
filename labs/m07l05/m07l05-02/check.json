@@ -1,0 +1,19 @@
+{
+  "lab": "m07l05-02",
+  "lesson": "m07l05",
+  "title": "Read a host alias",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash shell-read-a-host-alias.py",
+  "main": "shell-read-a-host-alias.py",
+  "files": [
+    "shell-read-a-host-alias.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "transcript",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

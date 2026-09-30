@@ -1,0 +1,4 @@
+mount=/
+usage=82%
+inodes=41%
+state=healthy

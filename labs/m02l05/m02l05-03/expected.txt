@@ -1,0 +1,4 @@
+user=ana
+cmd=restart
+target=root
+decision=ok
